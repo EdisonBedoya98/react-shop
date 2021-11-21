@@ -5,7 +5,12 @@
 	padding: 24px;
 	box-sizing: border-box;
 	position: absolute;
-	right: 0;
+	right: 0;	
+	background-color: #fff;
+	top: 60px;
+	bottom: auto;
+	border-radius: 6px;
+	border: 1px solid var(--very-light-pink);
 }
 .title-container {
 	display: flex;
